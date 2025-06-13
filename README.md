@@ -12,10 +12,10 @@ I'm a full-stack developer and content creator building my version of the digita
 
 ### Connect with me
 <div align="left">
-<!--   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /> -->
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  /> -->
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /> 
+<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
 </div>
 <br/>
 
@@ -39,11 +39,11 @@ I'm a full-stack developer and content creator building my version of the digita
 <hr/>
 
 ### 📊 Stats and Activity
-<div align="left">
+<div align="center" justify"space-between">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Umohmarvelous&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umohmarvelous&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="120" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Umohmarvelous&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=9&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umohmarvelous&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umohmarvelous&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 <!--
